@@ -3,7 +3,7 @@
 
 # Projects Include:
   - summaries and explanations 📊
-  - code in pyhton and streamlit 💻
+  - code in python and streamlit 💻
   - comments describing what the code does 🧮
   - instructions for running the code 🧑‍💻
 
