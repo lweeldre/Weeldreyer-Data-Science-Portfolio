@@ -1,2 +1,13 @@
 # Weeldreyer-Data-Science-Portfolio
--This portfolio houses all of the projects I have completed with summaries and explanations.
+-This portfolio houses all of my completed projects.
+
+# Projects Include:
+  - summaries and explanations 📊
+  - code in pyhton and streamlit 💻
+  - comments describing what the code does 🧮
+  - instructions for running the code 🧑‍💻
+
+## Projected Projects Include:
+- EDA
+- Data Visualizations
+- 
