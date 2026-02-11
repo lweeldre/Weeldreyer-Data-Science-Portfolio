@@ -10,4 +10,4 @@
 ## Projected Projects Include:
 - EDA
 - Data Visualizations
-- 
+- Data Models
