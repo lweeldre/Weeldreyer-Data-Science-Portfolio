@@ -8,6 +8,6 @@
   - instructions for running the code 🧑‍💻
 
 ## Projected Projects Include:
-- EDA
-- Data Visualizations
-- Data Models
+- EDA 💻
+- Data Visualizations 📐
+- Data Models 📏
