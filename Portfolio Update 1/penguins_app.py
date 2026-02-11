@@ -12,7 +12,7 @@ st.title("Penguin Species Statistics")
 st.subheader("Dataset Specifics")
 
 # Produce the Data set in its simplest form:
-st.write("Here's our data")
+st.write("Here's our data set")
 st.dataframe(df)
 
 # Creating pull-down bar for each species:
@@ -22,6 +22,9 @@ filtered_df = df[df["species"] == species]
 # Producing Statistics for label selected in pull-down bar:
 st.write(f"{species} Statistics")
 st.dataframe(filtered_df)
+
+# Description for data Table #2:
+st.write(f"This data table allows you observe specific statistics after selecting a certain species of penguins from the pull-down bar.")
 
 # Creating Interactive experience to explore the data:
 st.title("Penguin Species Explorer")
@@ -43,6 +46,9 @@ col3.metric("Avg Bill Length (mm)", round(filtered_df['bill_length_mm'].mean(), 
 st.subheader("Data Overview")
 st.dataframe(filtered_df, use_container_width=True)
 
+# Description for Data Table #3:
+st.write("This data table allows you to observe the total amount of penguins, Average Body Mass (g), and Average Bill Length (mm) using the filter optoins on the left side of the screen. The filter options allow you to observe multile species at once. ")
+
 # Creating a Scatter plot:
 st.title("Penguin Measurement Correlations")
 
@@ -58,6 +64,9 @@ with col2:
 # Scatter Chart colored by Species:
 st.write(f"### Plotting {x_axis} vs {y_axis}")
 st.scatter_chart(data = df, x = x_axis, y = y_axis, color = "species", size = "body_mass_g")
+
+# Description for Data set #4:
+st.write("This data table presents a cluster that illustrates the differences and similarities in Bill Length (mm) among the three different species of penguins.")
 
 # Creating a Bar Chart:
 st.title("Population Distributions")
@@ -80,3 +89,6 @@ with tab2:
     st.bar_chart(avg_mass)
     if show_raw:
         st.write(avg_mass)
+
+#Description for Data set #5:
+st.write("This data table presents a bar chart that illustrates the population distribution of the different species of penguins by island. this bar chart also presents the average body mass for each species.")
