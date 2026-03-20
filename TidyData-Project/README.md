@@ -24,4 +24,17 @@
 
 -> df_olympics = pd.read_csv("olympics_08_medalists.csv")
 
+## 📓 Steps to run the notebook
+1) Make sure you have python installed on your system
+2) Install the required dependicies:
+
+-> pip install pandas matplotlib jupyter
+
+3) Download the dataset and place it in the same folder as the notebook
+4) Open a terminal in the project directory and run:
+
+-> jupyter notebook
+
+5) Open the notebook file and run all cells to reproduce the analysis and visualizations
+
   
