@@ -44,9 +44,30 @@ if dataset_option == "Use sample dataset":
     )
 
     if sample_choice == "Penguins":
-        pd.read_csv("MLStreamlitApp/data/penguins.csv")
+        #pd.read_csv("MLStreamlitApp/data/penguins.csv")
         #df = pd.read_csv("data/penguins.csv")
         st.write("Penguins dataset: classify penguin species based on physical measurements.")
+
+
+        import pandas as pd
+
+        # Load dataset
+        df = pd.read_csv("MLStreamlitApp/data/penguins.csv")
+
+        # Drop missing values
+        df = df.dropna()
+
+        # Convert categorical columns to numeric
+        df = pd.get_dummies(df, drop_first=True)
+
+        # Show preview (so you know it's working)
+        st.write("Penguins Dataset Preview:")
+        st.write(df.head())
+
+
+
+
+
 
     elif sample_choice == "Iris":
         from sklearn.datasets import load_iris
