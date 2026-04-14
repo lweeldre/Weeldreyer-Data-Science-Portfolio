@@ -26,10 +26,6 @@ This project demonstrates practical skills in machine learning, data preprocessi
 - Upload your own CSV dataset
 - Use built-in datasets (Penguins, Iris, Breast Cancer)
 
-### Data Preprocessing
-- Automatic handling of missing values (rows with missing data are removed)
-- Categorical variables are encoded using one-hot encoding
-
 ### Model Selection
 
 The app includes the following supervised machine learning models:
