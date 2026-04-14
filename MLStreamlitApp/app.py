@@ -44,7 +44,8 @@ if dataset_option == "Use sample dataset":
     )
 
     if sample_choice == "Penguins":
-        df = pd.read_csv("data/penguins.csv")
+        pd.read_csv("MLStreamlitApp/data/penguins.csv")
+        #df = pd.read_csv("data/penguins.csv")
         st.write("Penguins dataset: classify penguin species based on physical measurements.")
 
     elif sample_choice == "Iris":
