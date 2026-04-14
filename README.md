@@ -60,7 +60,7 @@ This project demonstrates:
 
 ---
 
-## [Portfolio Update 3](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/tree/main/Portfolio%20Update%203)
+## [Portfolio Update 3](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/tree/main/MLStreamlitApp)
 
 - This project is an interactive machine learning web application built using Python and Streamlit. It allows users to explore supervised learning models in a hands-on environment.
 
