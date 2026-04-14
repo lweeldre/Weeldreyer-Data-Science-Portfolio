@@ -44,10 +44,7 @@ if dataset_option == "Use sample dataset":
     )
 
     if sample_choice == "Penguins":
-        #pd.read_csv("MLStreamlitApp/data/penguins.csv")
-        #df = pd.read_csv("data/penguins.csv")
         st.write("Penguins dataset: classify penguin species based on physical measurements.")
-
 
         import pandas as pd
 
@@ -63,11 +60,6 @@ if dataset_option == "Use sample dataset":
         # Show preview (so you know it's working)
         st.write("Penguins Dataset Preview:")
         st.write(df.head())
-
-
-
-
-
 
     elif sample_choice == "Iris":
         from sklearn.datasets import load_iris
@@ -142,6 +134,7 @@ if 'df' in locals():
     - **Decision Tree**: Splits data based on feature values
     - **KNN**: Classifies based on nearest neighbors
     """)
+    
     model_choice = st.selectbox("Choose Model", ["Logistic Regression", "Decision Tree", "KNN"])
     if model_choice == "Logistic Regression":
         st.markdown("""
@@ -225,6 +218,7 @@ if 'df' in locals():
         - Computationally expensive with large datasets
         - Sensitive to feature scaling and irrelevant features
         """)
+        
         st.markdown("""
         **Number of Neighbors (K):**  
         Determines how many nearby points influence predictions.
