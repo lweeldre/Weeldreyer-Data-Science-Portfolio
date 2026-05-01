@@ -96,6 +96,10 @@ It demonstrates the ability to:
 
 ---
 
+## [Portfolio Update 3](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/tree/main/FStreamlitApp)
+
+---
+
 ## Portfolio Summary
 
 Across these projects, this portfolio demonstrates growth from:
