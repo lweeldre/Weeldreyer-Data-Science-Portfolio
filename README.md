@@ -26,9 +26,31 @@ Each project highlights different stages of the data science workflow, including
 
 ---
 
-# Portfolio Projects
+## Portfolio Progression At a Glance
+
+### Portfolio Update 1 – Data Science Portfolio Foundation
+- Established professional GitHub portfolio
+- Organized repository structure
+- Developed branding and presentation
+
+### Portfolio Update 2 – Tidy Data Project
+- Applied data cleaning principles
+- Used reshaping, transformation, and preprocessing
+- Demonstrated foundational data wrangling skills
+
+### Portfolio Update 3 – Supervised Machine Learning App
+- Built interactive classification models
+- Evaluated predictive performance
+- Introduced machine learning deployment
+
+### Final Portfolio Project – Unsupervised Machine Learning App
+- Applied clustering and dimensionality reduction
+- Expanded into exploratory machine learning
+- Strengthened deployment and portfolio sophistication
 
 ---
+
+# Portfolio Projects
 
 ## [Portfolio Update 1](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/tree/main/Portfolio%20Update%201)
 - This is a simple web application built using the Streamlit library. It demonstrates how to create interactive data dashboards with Python code. Using the streamlit library, I constructed different interactive data tables to display the data in [penguins.csv](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/blob/main/Portfolio%20Update%201/data/penguins.csv). These data tables include pull-down bars, filtering options, bar charts, and scatter plots.
