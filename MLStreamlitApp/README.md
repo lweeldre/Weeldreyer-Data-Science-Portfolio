@@ -101,4 +101,6 @@ It highlights practical, real-world data science skills and complements my compl
 
 ---
 
+# Streamlit App URL
+
 [Streamlit App]( https://weeldreyer-ml-app.streamlit.app/)
