@@ -96,7 +96,7 @@ It demonstrates the ability to:
 
 ---
 
-## [Portfolio Update 3](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/tree/main/FStreamlitApp)
+## [Final Portfolio Project](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/tree/main/FStreamlitApp)
 
 ---
 
