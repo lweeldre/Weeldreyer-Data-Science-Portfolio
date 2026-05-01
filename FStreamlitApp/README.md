@@ -127,3 +127,9 @@ This interactive tuning allows users to observe how parameter adjustments impact
 ### 2. Install required dependencies:
 ```bash
 pip install streamlit pandas numpy matplotlib scikit-learn scipy
+
+---
+
+## Streamlit App URL
+
+
