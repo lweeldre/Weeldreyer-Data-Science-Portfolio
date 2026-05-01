@@ -98,6 +98,99 @@ It demonstrates the ability to:
 
 ## [Final Portfolio Project](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio/tree/main/FStreamlitApp)
 
+- This project is an interactive unsupervised machine learning web application built using Python and Streamlit. It expands my portfolio by moving beyond supervised learning into exploratory machine learning techniques that identify hidden patterns in unlabeled data.
+
+- Users can upload their own datasets or select sample datasets, experiment with clustering and dimensionality reduction models, adjust hyperparameters, and evaluate results through interactive visualizations such as Elbow Plots, Silhouette Scores, Dendrograms, and PCA graphs.
+
+- This project demonstrates deeper understanding of machine learning by focusing on pattern discovery, segmentation, and dimensionality reduction rather than prediction alone.
+
+## Unsupervised Machine Learning Models Included
+
+### K-Means Clustering
+- Groups similar observations into clusters
+- Uses the Elbow Method to evaluate optimal K
+- Provides Silhouette Scores for clustering quality
+- Visualizes clusters using scatterplots
+
+### Hierarchical Clustering
+- Builds nested similarity-based clusters
+- Uses dendrograms to visualize hierarchical relationships
+- Demonstrates cluster merging and natural grouping boundaries
+
+### Principal Component Analysis (PCA)
+- Reduces dataset dimensionality
+- Preserves meaningful variance
+- Visualizes complex data structures in simplified dimensions
+- Includes explained variance analysis
+
+## Skills Demonstrated
+
+This project highlights my ability to:
+
+- Build interactive Streamlit web applications
+- Apply unsupervised machine learning techniques
+- Implement clustering diagnostics and evaluation metrics
+- Perform dimensionality reduction
+- Design user-friendly interfaces for data science exploration
+- Deploy machine learning applications to the cloud
+- Strengthen professional GitHub portfolio presentation
+
+## How This Project Builds on My Machine Learning Knowledge
+
+### Previous MLStreamlitApp (Portfolio Update 3):
+Focused on **supervised learning**, where models predicted labeled outcomes using:
+- Logistic Regression
+- Decision Trees
+- KNN
+
+### This Final Project:
+Expands into **unsupervised learning**, where models discover hidden structures without labels using:
+- K-Means
+- Hierarchical Clustering
+- PCA
+
+### Key Growth:
+This progression demonstrates my ability to understand both:
+- Predictive modeling
+- Exploratory pattern recognition
+
+Together, these projects reflect broader machine learning competency.
+
+## How This Complements My Overall Portfolio
+
+This project strengthens my portfolio by adding:
+
+### Interactive Python Development
+- Advanced Streamlit design
+- User-controlled hyperparameter tuning
+- Real-time visual analytics
+
+### Model Deployment
+- Streamlit Community Cloud deployment
+- Public-facing machine learning application
+
+### Professional Data Science Branding
+- Demonstrates full project lifecycle:
+    - Data preprocessing  
+    - Model implementation  
+    - Visualization  
+    - Deployment  
+    - Documentation
+
+## Project Significance
+
+This final project serves as a capstone to my portfolio by combining:
+- Data preprocessing
+- Interactive app development
+- Machine learning breadth
+- Visualization
+- Deployment
+- Professional documentation
+
+It demonstrates not only technical proficiency but also the ability to communicate data science concepts clearly and professionally.
+
+This project represents a major step toward building a complete, industry-ready data science portfolio.
+
 ---
 
 ## Portfolio Summary
