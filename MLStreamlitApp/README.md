@@ -98,3 +98,7 @@ This project demonstrates the ability to:
 - Deploy applications to the cloud using Streamlit
 
 It highlights practical, real-world data science skills and complements my complete data science portfolio.
+
+---
+
+[Streamlit App]( https://weeldreyer-ml-app.streamlit.app/)
