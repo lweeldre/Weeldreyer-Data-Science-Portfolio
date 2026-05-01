@@ -122,9 +122,8 @@ This interactive tuning allows users to observe how parameter adjustments impact
 
 ## Steps to Run the App Locally
 
-### 1. Make sure Python is installed on your system
-
-### 2. Install required dependencies
+- Make sure Python is installed on your system
+- Install required dependencies
 
 ---
 
