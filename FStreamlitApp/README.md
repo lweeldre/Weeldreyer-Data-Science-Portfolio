@@ -124,9 +124,7 @@ This interactive tuning allows users to observe how parameter adjustments impact
 
 ### 1. Make sure Python is installed on your system
 
-### 2. Install required dependencies:
-```bash
-pip install streamlit pandas numpy matplotlib scikit-learn scipy
+### 2. Install required dependencies
 
 ---
 
