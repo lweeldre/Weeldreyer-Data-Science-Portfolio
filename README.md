@@ -96,7 +96,7 @@ It demonstrates the ability to:
 
 ---
 
-## Summary
+## Portfolio Summary
 
 Across these projects, this portfolio demonstrates growth from:
 - Basic data exploration  
