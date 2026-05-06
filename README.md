@@ -211,8 +211,6 @@ This final project serves as a capstone to my portfolio by combining:
 
 It demonstrates not only technical proficiency but also the ability to communicate data science concepts clearly and professionally.
 
-This project represents a major step toward building a complete, industry-ready data science portfolio.
-
 ---
 
 ## Portfolio Summary
