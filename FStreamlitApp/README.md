@@ -127,6 +127,6 @@ This interactive tuning allows users to observe how parameter adjustments impact
 
 ---
 
-## Streamlit App URL
+## [Streamlit App URL](https://weeldreyer-data-science-portfolio-l7gpxmeq5rm3ospm3jbgn9.streamlit.app/)
 
 
