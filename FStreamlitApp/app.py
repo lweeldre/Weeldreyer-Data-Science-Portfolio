@@ -315,12 +315,6 @@ if 'df' in locals():
         - **Lower merges** → observations are highly similar
         - **Higher merges** → observations are more different
         - **Large vertical jumps** → may indicate natural cluster boundaries
-
-        ### Why This Adaptive Design Matters:
-        Because uploaded datasets may vary greatly in size, this visualization automatically balances:
-        - Detail
-        - Readability
-        - Professional presentation
         """)
 
     # PCA
